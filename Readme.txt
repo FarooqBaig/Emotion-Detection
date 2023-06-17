@@ -1,4 +1,4 @@
-#Emotion Detection using CNN Architecture
+# Emotion-Detection-using-CNN-Architecture
 This repository contains code for emotion detection using Convolutional Neural Network (CNN) architecture. The implementation utilizes the Haar cascade classifier from the OpenCV library for face detection, and the CNN model is trained on two datasets: FER-2013 and CK+. The model achieves an accuracy of 89.91% on FER-2013 and 96.01% on CK+.
 
 **Requirements**
